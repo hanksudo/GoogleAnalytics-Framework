@@ -1,1 +1,2 @@
-github "jspahrsummers/xcconfigs" "0.9"
+git "../GoogleAnalytics-Framework" "b0bcee648b2b41072e5e43e966ffc9b7e3a3e312"
+github "jspahrsummers/xcconfigs" "0.11"

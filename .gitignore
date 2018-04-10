@@ -56,3 +56,4 @@ Carthage/Build
 # Bundler files
 .bundle
 vendor
+Carthage/Checkouts

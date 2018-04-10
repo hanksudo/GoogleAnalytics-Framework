@@ -6,4 +6,4 @@
 #  Licensed under the MIT License.
 #
 
-git "../GoogleAnalytics-Framework" "withIDFA"
+github "elegion/GoogleAnalytics-Framework" "withIDFA"

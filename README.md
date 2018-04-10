@@ -44,12 +44,8 @@ pod "Google/Analytics"
 
 ## About
 
-### Maintainers
-
-**Adrian Kashivskyy**
-
-- [http://github.com/akashivskyy](http://github.com/akashivskyy)
-- [http://twitter.com/akashivskyy](http://twitter.com/akashivskyy)
+### How to support
+After updating anything, commit and push to remote, call `carthage update`. Go to `Carthage/Build/iOS/` and zip `GoogleAnalytics.framework` with `GoogleAnalytics.framework.dSYM` into one archive. Call it "GoogleAnalytics.zip" and place to the root directory replacing the old one. Change version in GoogleAnalytics.json
 
 ### License
 

@@ -31,6 +31,32 @@
 		3A91589B1B12303400A8FA96 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A91589A1B12303400A8FA96 /* UIKit.framework */; };
 		3A91589E1B12304B00A8FA96 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A91589D1B12304B00A8FA96 /* Foundation.framework */; };
 		3A97DBEE1B12484600276051 /* GoogleAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A97DBED1B12484600276051 /* GoogleAnalytics.m */; };
+		9477EF97207CC86900312DDF /* GoogleAnalytics.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A97DBED1B12484600276051 /* GoogleAnalytics.m */; };
+		9477EF99207CC86900312DDF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A91589D1B12304B00A8FA96 /* Foundation.framework */; };
+		9477EF9A207CC86900312DDF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A91589A1B12303400A8FA96 /* UIKit.framework */; };
+		9477EF9B207CC86900312DDF /* libz.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A9158981B12302A00A8FA96 /* libz.1.dylib */; };
+		9477EF9C207CC86900312DDF /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A9158961B12302100A8FA96 /* libsqlite3.dylib */; };
+		9477EF9D207CC86900312DDF /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A9158941B12301C00A8FA96 /* SystemConfiguration.framework */; };
+		9477EF9E207CC86900312DDF /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A9158921B12301400A8FA96 /* CoreData.framework */; };
+		9477EF9F207CC86900312DDF /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A9158741B12223D00A8FA96 /* libGoogleAnalyticsServices.a */; };
+		9477EFA1207CC86900312DDF /* GAIDictionaryBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A9158771B12224800A8FA96 /* GAIDictionaryBuilder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA2207CC86900312DDF /* GAIFields.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587C1B12224800A8FA96 /* GAIFields.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA3207CC86900312DDF /* GAI.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A9158761B12224800A8FA96 /* GAI.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA4207CC86900312DDF /* TAGLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3FD4801D489982000FE823 /* TAGLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA5207CC86900312DDF /* TAGContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3FD47D1D489982000FE823 /* TAGContainer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA6207CC86900312DDF /* GAIEcommerceFields.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A9158781B12224800A8FA96 /* GAIEcommerceFields.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA7207CC86900312DDF /* GAITrackedViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587E1B12224800A8FA96 /* GAITrackedViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA8207CC86900312DDF /* GAILogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587D1B12224800A8FA96 /* GAILogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFA9207CC86900312DDF /* GAITracker.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587F1B12224800A8FA96 /* GAITracker.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFAA207CC86900312DDF /* TAGManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3FD4811D489982000FE823 /* TAGManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFAB207CC86900312DDF /* TAGContainerOpener.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3FD47E1D489982000FE823 /* TAGContainerOpener.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFAC207CC86900312DDF /* GAIEcommerceProduct.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A9158791B12224800A8FA96 /* GAIEcommerceProduct.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFAE207CC86900312DDF /* TAGDataLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A3FD47F1D489982000FE823 /* TAGDataLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFAF207CC86900312DDF /* GAIEcommercePromotion.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587B1B12224800A8FA96 /* GAIEcommercePromotion.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFB0207CC86900312DDF /* GAIEcommerceProductAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A91587A1B12224800A8FA96 /* GAIEcommerceProductAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9477EFB8207CC8A100312DDF /* libAdIdAccess.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9477EFB7207CC8A100312DDF /* libAdIdAccess.a */; };
+		9477EFBA207CC8AA00312DDF /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9477EFB9207CC8AA00312DDF /* AdSupport.framework */; };
+		9477EFC4207CC97600312DDF /* GoogleAnalyticsWithIDFA.h in Headers */ = {isa = PBXBuildFile; fileRef = 9477EFC3207CC97600312DDF /* GoogleAnalyticsWithIDFA.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +103,11 @@
 		3A91589D1B12304B00A8FA96 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3A97DBEC1B1246A000276051 /* GoogleAnalytics-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleAnalytics-Info.plist"; sourceTree = "<group>"; };
 		3A97DBED1B12484600276051 /* GoogleAnalytics.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleAnalytics.m; sourceTree = "<group>"; };
+		9477EFB5207CC86900312DDF /* GoogleAnalyticsWithIDFA.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GoogleAnalyticsWithIDFA.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9477EFB7207CC8A100312DDF /* libAdIdAccess.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAdIdAccess.a; sourceTree = "<group>"; };
+		9477EFB9207CC8AA00312DDF /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		9477EFC1207CC97000312DDF /* GoogleAnalyticsWithIDFA-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleAnalyticsWithIDFA-Info.plist"; sourceTree = "<group>"; };
+		9477EFC3207CC97600312DDF /* GoogleAnalyticsWithIDFA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoogleAnalyticsWithIDFA.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +122,22 @@
 				3A9158951B12301C00A8FA96 /* SystemConfiguration.framework in Frameworks */,
 				3A9158931B12301400A8FA96 /* CoreData.framework in Frameworks */,
 				3A9158751B12223D00A8FA96 /* libGoogleAnalyticsServices.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9477EF98207CC86900312DDF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9477EFBA207CC8AA00312DDF /* AdSupport.framework in Frameworks */,
+				9477EF99207CC86900312DDF /* Foundation.framework in Frameworks */,
+				9477EFB8207CC8A100312DDF /* libAdIdAccess.a in Frameworks */,
+				9477EF9A207CC86900312DDF /* UIKit.framework in Frameworks */,
+				9477EF9B207CC86900312DDF /* libz.1.dylib in Frameworks */,
+				9477EF9C207CC86900312DDF /* libsqlite3.dylib in Frameworks */,
+				9477EF9D207CC86900312DDF /* SystemConfiguration.framework in Frameworks */,
+				9477EF9E207CC86900312DDF /* CoreData.framework in Frameworks */,
+				9477EF9F207CC86900312DDF /* libGoogleAnalyticsServices.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				3A91583B1B1220A100A8FA96 /* GoogleAnalytics.framework */,
+				9477EFB5207CC86900312DDF /* GoogleAnalyticsWithIDFA.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,7 +170,9 @@
 				3A9158721B12221200A8FA96 /* External Headers */,
 				3A9158401B1220A100A8FA96 /* GoogleAnalytics.h */,
 				3A97DBED1B12484600276051 /* GoogleAnalytics.m */,
+				9477EFC3207CC97600312DDF /* GoogleAnalyticsWithIDFA.h */,
 				3A97DBEC1B1246A000276051 /* GoogleAnalytics-Info.plist */,
+				9477EFC1207CC97000312DDF /* GoogleAnalyticsWithIDFA-Info.plist */,
 			);
 			path = "Google Analytics";
 			sourceTree = "<group>";
@@ -234,6 +284,7 @@
 		3A9158731B12221900A8FA96 /* External Binaries */ = {
 			isa = PBXGroup;
 			children = (
+				9477EFB7207CC8A100312DDF /* libAdIdAccess.a */,
 				3A9158741B12223D00A8FA96 /* libGoogleAnalyticsServices.a */,
 			);
 			name = "External Binaries";
@@ -243,6 +294,7 @@
 		3A91589C1B12304000A8FA96 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9477EFB9207CC8AA00312DDF /* AdSupport.framework */,
 				3A91589D1B12304B00A8FA96 /* Foundation.framework */,
 				3A9158921B12301400A8FA96 /* CoreData.framework */,
 				3A9158961B12302100A8FA96 /* libsqlite3.dylib */,
@@ -279,12 +331,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		9477EFA0207CC86900312DDF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9477EFA1207CC86900312DDF /* GAIDictionaryBuilder.h in Headers */,
+				9477EFA2207CC86900312DDF /* GAIFields.h in Headers */,
+				9477EFA3207CC86900312DDF /* GAI.h in Headers */,
+				9477EFA4207CC86900312DDF /* TAGLogger.h in Headers */,
+				9477EFC4207CC97600312DDF /* GoogleAnalyticsWithIDFA.h in Headers */,
+				9477EFA5207CC86900312DDF /* TAGContainer.h in Headers */,
+				9477EFA6207CC86900312DDF /* GAIEcommerceFields.h in Headers */,
+				9477EFA7207CC86900312DDF /* GAITrackedViewController.h in Headers */,
+				9477EFA8207CC86900312DDF /* GAILogger.h in Headers */,
+				9477EFA9207CC86900312DDF /* GAITracker.h in Headers */,
+				9477EFAA207CC86900312DDF /* TAGManager.h in Headers */,
+				9477EFAB207CC86900312DDF /* TAGContainerOpener.h in Headers */,
+				9477EFAC207CC86900312DDF /* GAIEcommerceProduct.h in Headers */,
+				9477EFAE207CC86900312DDF /* TAGDataLayer.h in Headers */,
+				9477EFAF207CC86900312DDF /* GAIEcommercePromotion.h in Headers */,
+				9477EFB0207CC86900312DDF /* GAIEcommerceProductAction.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3A91583A1B1220A100A8FA96 /* Google Analytics */ = {
+		3A91583A1B1220A100A8FA96 /* GoogleAnalytics */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A9158511B1220A100A8FA96 /* Build configuration list for PBXNativeTarget "Google Analytics" */;
+			buildConfigurationList = 3A9158511B1220A100A8FA96 /* Build configuration list for PBXNativeTarget "GoogleAnalytics" */;
 			buildPhases = (
 				3A9158361B1220A100A8FA96 /* Sources */,
 				3A9158371B1220A100A8FA96 /* Frameworks */,
@@ -295,9 +370,27 @@
 			);
 			dependencies = (
 			);
-			name = "Google Analytics";
+			name = GoogleAnalytics;
 			productName = "Google Analytics";
 			productReference = 3A91583B1B1220A100A8FA96 /* GoogleAnalytics.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		9477EF95207CC86900312DDF /* GoogleAnalyticsWithIDFA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9477EFB2207CC86900312DDF /* Build configuration list for PBXNativeTarget "GoogleAnalyticsWithIDFA" */;
+			buildPhases = (
+				9477EF96207CC86900312DDF /* Sources */,
+				9477EF98207CC86900312DDF /* Frameworks */,
+				9477EFA0207CC86900312DDF /* Headers */,
+				9477EFB1207CC86900312DDF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GoogleAnalyticsWithIDFA;
+			productName = "Google Analytics";
+			productReference = 9477EFB5207CC86900312DDF /* GoogleAnalyticsWithIDFA.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -326,13 +419,21 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3A91583A1B1220A100A8FA96 /* Google Analytics */,
+				3A91583A1B1220A100A8FA96 /* GoogleAnalytics */,
+				9477EF95207CC86900312DDF /* GoogleAnalyticsWithIDFA */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		3A9158391B1220A100A8FA96 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9477EFB1207CC86900312DDF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -347,6 +448,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A97DBEE1B12484600276051 /* GoogleAnalytics.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9477EF96207CC86900312DDF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9477EF97207CC86900312DDF /* GoogleAnalytics.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +520,42 @@
 			};
 			name = Release;
 		};
+		9477EFB3207CC86900312DDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A9158681B12217400A8FA96 /* iOS-Framework.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = "Google Analytics/GoogleAnalyticsWithIDFA-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Google\\ Analytics/External",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.akashivskyy.lib.googleanalytics;
+				PRODUCT_NAME = GoogleAnalyticsWithIDFA;
+			};
+			name = Debug;
+		};
+		9477EFB4207CC86900312DDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A9158681B12217400A8FA96 /* iOS-Framework.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = "Google Analytics/GoogleAnalyticsWithIDFA-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Google\\ Analytics/External",
+				);
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = me.akashivskyy.lib.googleanalytics;
+				PRODUCT_NAME = GoogleAnalyticsWithIDFA;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -423,11 +568,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A9158511B1220A100A8FA96 /* Build configuration list for PBXNativeTarget "Google Analytics" */ = {
+		3A9158511B1220A100A8FA96 /* Build configuration list for PBXNativeTarget "GoogleAnalytics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A9158521B1220A100A8FA96 /* Debug */,
 				3A9158531B1220A100A8FA96 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9477EFB2207CC86900312DDF /* Build configuration list for PBXNativeTarget "GoogleAnalyticsWithIDFA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9477EFB3207CC86900312DDF /* Debug */,
+				9477EFB4207CC86900312DDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

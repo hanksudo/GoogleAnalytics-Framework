@@ -1,23 +1,23 @@
 //
-// GoogleAnalytics.h
+// GoogleAnalyticsWithIDFA.h
 //
 // Copyright © 2015-2016 Adrian Kashivskyy. All rights reserved.
 // Licensed under the MIT License.
 //
 
-#import <GoogleAnalytics/GAI.h>
-#import <GoogleAnalytics/GAIDictionaryBuilder.h>
-#import <GoogleAnalytics/GAIEcommerceFields.h>
-#import <GoogleAnalytics/GAIEcommerceProduct.h>
-#import <GoogleAnalytics/GAIEcommerceProductAction.h>
-#import <GoogleAnalytics/GAIEcommercePromotion.h>
-#import <GoogleAnalytics/GAIFields.h>
-#import <GoogleAnalytics/GAILogger.h>
-#import <GoogleAnalytics/GAITrackedViewController.h>
-#import <GoogleAnalytics/GAITracker.h>
+#import <GoogleAnalyticsWithIDFA/GAI.h>
+#import <GoogleAnalyticsWithIDFA/GAIDictionaryBuilder.h>
+#import <GoogleAnalyticsWithIDFA/GAIEcommerceFields.h>
+#import <GoogleAnalyticsWithIDFA/GAIEcommerceProduct.h>
+#import <GoogleAnalyticsWithIDFA/GAIEcommerceProductAction.h>
+#import <GoogleAnalyticsWithIDFA/GAIEcommercePromotion.h>
+#import <GoogleAnalyticsWithIDFA/GAIFields.h>
+#import <GoogleAnalyticsWithIDFA/GAILogger.h>
+#import <GoogleAnalyticsWithIDFA/GAITrackedViewController.h>
+#import <GoogleAnalyticsWithIDFA/GAITracker.h>
 
-#import <GoogleAnalytics/TAGContainer.h>
-#import <GoogleAnalytics/TAGContainerOpener.h>
-#import <GoogleAnalytics/TAGDataLayer.h>
-#import <GoogleAnalytics/TAGLogger.h>
-#import <GoogleAnalytics/TAGManager.h>
+#import <GoogleAnalyticsWithIDFA/TAGContainer.h>
+#import <GoogleAnalyticsWithIDFA/TAGContainerOpener.h>
+#import <GoogleAnalyticsWithIDFA/TAGDataLayer.h>
+#import <GoogleAnalyticsWithIDFA/TAGLogger.h>
+#import <GoogleAnalyticsWithIDFA/TAGManager.h>

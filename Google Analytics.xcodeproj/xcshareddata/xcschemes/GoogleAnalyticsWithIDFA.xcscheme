@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9477EF95207CC86900312DDF"
-               BuildableName = "Google Analytics WithIDFA.framework"
-               BlueprintName = "Google Analytics WithIDFA"
+               BuildableName = "GoogleAnalyticsWithIDFA.framework"
+               BlueprintName = "GoogleAnalyticsWithIDFA"
                ReferencedContainer = "container:Google Analytics.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9477EF95207CC86900312DDF"
-            BuildableName = "Google Analytics WithIDFA.framework"
-            BlueprintName = "Google Analytics WithIDFA"
+            BuildableName = "GoogleAnalyticsWithIDFA.framework"
+            BlueprintName = "GoogleAnalyticsWithIDFA"
             ReferencedContainer = "container:Google Analytics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9477EF95207CC86900312DDF"
-            BuildableName = "Google Analytics WithIDFA.framework"
-            BlueprintName = "Google Analytics WithIDFA"
+            BuildableName = "GoogleAnalyticsWithIDFA.framework"
+            BlueprintName = "GoogleAnalyticsWithIDFA"
             ReferencedContainer = "container:Google Analytics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

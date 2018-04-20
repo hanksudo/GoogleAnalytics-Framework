@@ -186,7 +186,7 @@
 				3A91586A1B12217400A8FA96 /* Mac OS X */,
 			);
 			name = Configuration;
-			path = Carthage/Checkouts/xcconfigs;
+			path = xcconfigs;
 			sourceTree = "<group>";
 		};
 		3A9158581B12217400A8FA96 /* Base */ = {

@@ -1,4 +1,4 @@
-# GoogleAnalytics-Framework
+# GoogleAnalytics-Framework (with IDFA)
 
 [![](https://img.shields.io/github/tag/akashivskyy/GoogleAnalytics-Framework.svg?label=version)](https://github.com/akashivskyy/GoogleAnalytics-Framework/tags)
 [![](https://img.shields.io/badge/carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage)
@@ -21,6 +21,10 @@ The project defines a `GoogleAnalytics.framework` target, therefore you may impo
 // Swift
 
 import GoogleAnalytics
+
+// with IDFA
+
+import GoogleAnalyticsWithIDFA
 ```
 
 ## Installation
